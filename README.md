@@ -1,4 +1,4 @@
-# VBA Homework - The VBA of Wall Street
+# VBA - The VBA of Wall Street
 
 ## Background
 
@@ -14,7 +14,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ![stock Market](Images/stockmarket.jpg)
 
-## Instructions
+## To Do Task:
 
 * Create a script that will loop through all the stocks for one year and output the following information.
 
